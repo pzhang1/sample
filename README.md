@@ -4,9 +4,9 @@
 
 * Exploratory Data Analysis
 
-* Getting and Cleaning Data+
-
 * Exploratory Data Analysis
+
+* Getting and Cleaning Data+
 
 * Reproducible Research
 
